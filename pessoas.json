@@ -10,13 +10,18 @@
     "email": "mariana.souza@example.com"
   },
   {
-    "name": "JoÃ£o Pereira",
+    "name": "JoÃÂ£o Pereira",
     "phone": "+55 31 98888-5678",
     "email": "joao.pereira@example.com"
   },
   {
-    "name": "André Mendes de Oliveira",
+    "name": "AndrÃ© Mendes de Oliveira",
     "phone": "(11)966675307",
+    "email": "andrehmo@hotmail.com"
+  },
+  {
+    "name": "André Mendes de Oliveira",
+    "phone": "+49 176 216 49 147",
     "email": "andrehmo@hotmail.com"
   }
 ]
